@@ -1,6 +1,6 @@
 {
   "name": "graphql-hashid-type",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Encode numeric integers as hashes using Hashids.",
   "keywords": [
     "graphql",
