@@ -44,6 +44,6 @@
     "hashids": "1.1.1"
   },
   "peerDependencies": {
-    "graphql": "^0.7.0"
+    "graphql": ">= 0.7.0, < 1.0.0"
   }
 }
